@@ -1,0 +1,23 @@
+{
+  "name": "gql-todos-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^1.4.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "graphql": "^14.3.0",
+    "graphql-tools": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
